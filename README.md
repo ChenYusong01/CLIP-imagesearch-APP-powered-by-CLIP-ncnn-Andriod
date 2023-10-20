@@ -85,13 +85,13 @@
 2. CLIP模型PC端部署
    
 参见：
-
 https://github.com/openai/CLIP#readme
 https://github.com/OFA-Sys/Chinese-CLIP#readme
 
-4. CLIP模型格式的转换
+3. CLIP模型格式的转换
 CLIP模型本身是基于pytorch框架的，他的预训练模型格式与ncnn框架支持的格式不匹配，故需要进行对齐格式转换。
 转换流程为： *.pth -> *.onnx -> *onnx-simplify -> bin & param
+
 参考：https://github.com/Tencent/ncnn/wiki/use-ncnn-with-pytorch-or-onnx
 
 ![image](https://github.com/ChenYusong01/CLIP-imagesearch-APP-powered-by-CLIP-ncnn-Andriod/assets/91783123/00cd67fc-e9d1-4ea4-a311-39b4dbf059c8)
