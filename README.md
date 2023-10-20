@@ -61,7 +61,9 @@
  
  
 三、项目难点
+
 1.Cmake编译ncnn框架源码
+
 使用cmake工具对ncnn框架进行编译时总会爆发各种各样的错误，最后仔细查看日志发现大多数都是因为版本不适配造成的冲突，慢慢尝试不同的版本终于得到解决。另外，建议在Linux系统下进行编译。
 
 ![image](https://github.com/ChenYusong01/CLIP-imagesearch-APP-powered-by-CLIP-ncnn-Andriod/assets/91783123/16184cdb-9f2f-4fc4-b35c-c20581c200c7)
@@ -81,10 +83,13 @@
 ![image](https://github.com/ChenYusong01/CLIP-imagesearch-APP-powered-by-CLIP-ncnn-Andriod/assets/91783123/bc68712a-dc83-49af-a490-376ba07c4f05)
 
 2. CLIP模型PC端部署
-参见：https://github.com/openai/CLIP#readme
-      https://github.com/OFA-Sys/Chinese-CLIP#readme
+   
+参见：
 
-3. CLIP模型格式的转换
+https://github.com/openai/CLIP#readme
+https://github.com/OFA-Sys/Chinese-CLIP#readme
+
+4. CLIP模型格式的转换
 CLIP模型本身是基于pytorch框架的，他的预训练模型格式与ncnn框架支持的格式不匹配，故需要进行对齐格式转换。
 转换流程为： *.pth -> *.onnx -> *onnx-simplify -> bin & param
 参考：https://github.com/Tencent/ncnn/wiki/use-ncnn-with-pytorch-or-onnx
