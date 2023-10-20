@@ -84,9 +84,7 @@
 
 2. CLIP模型PC端部署
    
-参见：
-https://github.com/openai/CLIP#readme
-https://github.com/OFA-Sys/Chinese-CLIP#readme
+参见： https://github.com/openai/CLIP#readme        https://github.com/OFA-Sys/Chinese-CLIP#readme
 
 3. CLIP模型格式的转换
 CLIP模型本身是基于pytorch框架的，他的预训练模型格式与ncnn框架支持的格式不匹配，故需要进行对齐格式转换。
