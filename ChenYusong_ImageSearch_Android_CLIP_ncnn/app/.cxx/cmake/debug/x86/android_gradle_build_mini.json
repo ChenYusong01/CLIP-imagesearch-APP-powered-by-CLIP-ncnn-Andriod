@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\x86\\lib\\cmake\\OSDependentTargets.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\x86\\lib\\cmake\\glslangTargets.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\x86\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-x86\\OpenCVConfig.cmake",
+    "D:\\AndroidTool\\AndroidSDK\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-x86\\OpenCVModules-release.cmake",
+    "D:\\AndroidTool\\AndroidSDK\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-x86\\OpenCVModules.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\x86\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\x86\\lib\\cmake\\SPIRVTargets.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\x86\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\x86\\lib\\cmake\\glslangTargets-release.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\x86\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\x86\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\x86\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\x86\\lib\\cmake\\ncnn\\ncnnConfig.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\AndroidTool\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "D:\\AndroidTool\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "clipis-Debug-x86": {
+      "artifactName": "clipis",
+      "buildCommand": "D:\\AndroidTool\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\.cxx\\cmake\\debug\\x86\" clipis",
+      "abi": "x86",
+      "output": "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libclipis.so"
+    }
+  }
+}

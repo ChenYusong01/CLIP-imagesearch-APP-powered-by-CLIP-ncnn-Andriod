@@ -1,0 +1,10 @@
+# ninja log v5
+1	2875	692538911	CMakeFiles/clipis.dir/clipis.cpp.o	7277bc998549558b
+8	3413	692538912	CMakeFiles/clipis.dir/clip.cpp.o	ad10829fe1ab31d1
+3414	4024	692538913	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/release/obj/x86/libclipis.so	7c5a6667825b0a59
+9	1687	693500800	CMakeFiles/clipis.dir/clipis.cpp.o	7277bc998549558b
+5	2047	693500801	CMakeFiles/clipis.dir/clip.cpp.o	ad10829fe1ab31d1
+2047	2516	693500801	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/release/obj/x86/libclipis.so	7c5a6667825b0a59
+4	1605	693508119	CMakeFiles/clipis.dir/clipis.cpp.o	3a735a604d73003c
+13	1950	693508119	CMakeFiles/clipis.dir/clip.cpp.o	943311b3c94ad215
+1950	2378	693508119	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/release/obj/x86/libclipis.so	f75d00903e13a88f

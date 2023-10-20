@@ -1,0 +1,19 @@
+# ninja log v5
+1	1613	692527976	CMakeFiles/clipis.dir/clipis.cpp.o	5c89c10a3fea3ed4
+5	1890	692527977	CMakeFiles/clipis.dir/clip.cpp.o	e77c81767a3a6c64
+1890	2402	692527977	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libclipis.so	a4a54ef9c4573fa6
+5	1425	692528598	CMakeFiles/clipis.dir/clipis.cpp.o	5c89c10a3fea3ed4
+1425	1920	692528598	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libclipis.so	a4a54ef9c4573fa6
+6	1522	692531686	CMakeFiles/clipis.dir/clipis.cpp.o	5c89c10a3fea3ed4
+1522	2058	692531686	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libclipis.so	a4a54ef9c4573fa6
+6	1819	692531998	CMakeFiles/clipis.dir/clipis.cpp.o	42c2d4ce179baadc
+11	2103	692531999	CMakeFiles/clipis.dir/clip.cpp.o	8c2494d00238ebe
+2103	2633	692531999	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libclipis.so	223235c010cff568
+8	1861	693492807	CMakeFiles/clipis.dir/clipis.cpp.o	42c2d4ce179baadc
+22	2178	693492807	CMakeFiles/clipis.dir/clip.cpp.o	8c2494d00238ebe
+2179	2950	693492808	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libclipis.so	223235c010cff568
+5	708	693501033	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libclipis.so	223235c010cff568
+5	1715	693505677	CMakeFiles/clipis.dir/clipis.cpp.o	d0d3cbcaf5d268dc
+16	2031	693505677	CMakeFiles/clipis.dir/clip.cpp.o	21ac145d91953576
+2031	2598	693505677	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libclipis.so	96606cb3ae3cffa4
+8	815	694524331	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libclipis.so	96606cb3ae3cffa4

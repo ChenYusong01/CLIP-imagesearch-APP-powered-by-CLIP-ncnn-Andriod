@@ -1,0 +1,7 @@
+#Thu Feb 09 21:22:58 CST 2023
+base.1=D\:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=D\:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

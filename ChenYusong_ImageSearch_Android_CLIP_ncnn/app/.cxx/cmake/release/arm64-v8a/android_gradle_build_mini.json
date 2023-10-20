@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\arm64-v8a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVConfig.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\arm64-v8a\\lib\\cmake\\OSDependentTargets.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\arm64-v8a\\lib\\cmake\\glslangTargets.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\arm64-v8a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "D:\\AndroidTool\\AndroidSDK\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules-release.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\arm64-v8a\\lib\\cmake\\glslangTargets-release.cmake",
+    "D:\\AndroidTool\\AndroidSDK\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\arm64-v8a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\arm64-v8a\\lib\\cmake\\SPIRVTargets.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\AndroidTool\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\AndroidTool\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "clipis-Release-arm64-v8a": {
+      "artifactName": "clipis",
+      "buildCommand": "D:\\AndroidTool\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\.cxx\\cmake\\release\\arm64-v8a\" clipis",
+      "abi": "arm64-v8a",
+      "output": "D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libclipis.so"
+    }
+  }
+}

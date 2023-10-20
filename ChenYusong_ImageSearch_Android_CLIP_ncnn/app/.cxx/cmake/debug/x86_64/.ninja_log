@@ -1,0 +1,4 @@
+# ninja log v5
+1	1441	693501039	CMakeFiles/clipis.dir/clipis.cpp.o	97d92d0474034569
+9	1676	693501039	CMakeFiles/clipis.dir/clip.cpp.o	9e94d2c89c3dc968
+1676	2179	693501039	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/x86_64/libclipis.so	6bc711dcc83873a9

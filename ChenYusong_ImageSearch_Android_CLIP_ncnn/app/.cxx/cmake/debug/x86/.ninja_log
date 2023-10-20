@@ -1,0 +1,19 @@
+# ninja log v5
+1	1785	692527974	CMakeFiles/clipis.dir/clipis.cpp.o	eea9efcc99bdeb35
+6	1927	692527974	CMakeFiles/clipis.dir/clip.cpp.o	4c3f64deaa8b6845
+1927	2448	692527975	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/x86/libclipis.so	67576b88b3aa1b4a
+5	1343	692528596	CMakeFiles/clipis.dir/clipis.cpp.o	eea9efcc99bdeb35
+1343	1813	692528596	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/x86/libclipis.so	67576b88b3aa1b4a
+10	1543	692531683	CMakeFiles/clipis.dir/clipis.cpp.o	eea9efcc99bdeb35
+1543	2045	692531684	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/x86/libclipis.so	67576b88b3aa1b4a
+6	1822	692531996	CMakeFiles/clipis.dir/clipis.cpp.o	ed31d13d8539776c
+11	2110	692531996	CMakeFiles/clipis.dir/clip.cpp.o	661410f704aa50ad
+2110	2546	692531996	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/x86/libclipis.so	31ce937387c4b4bf
+9	1906	693492700	CMakeFiles/clipis.dir/clipis.cpp.o	ed31d13d8539776c
+5	2100	693492700	CMakeFiles/clipis.dir/clip.cpp.o	661410f704aa50ad
+2100	2772	693492701	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/x86/libclipis.so	31ce937387c4b4bf
+5	517	693501037	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/x86/libclipis.so	31ce937387c4b4bf
+6	2564	693505650	CMakeFiles/clipis.dir/clipis.cpp.o	5a286052b4964fca
+18	2827	693505650	CMakeFiles/clipis.dir/clip.cpp.o	143e8aa606d4a4f8
+2827	3315	693505651	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/x86/libclipis.so	5b7379fa581adb67
+9	1090	694525917	D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/debug/obj/x86/libclipis.so	5b7379fa581adb67

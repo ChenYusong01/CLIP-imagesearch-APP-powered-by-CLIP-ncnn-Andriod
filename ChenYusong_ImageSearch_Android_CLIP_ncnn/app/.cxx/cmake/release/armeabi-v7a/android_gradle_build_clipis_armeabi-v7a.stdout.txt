@@ -1,0 +1,4 @@
+ninja: Entering directory `D:\AndroidTool\AndroidProject\ChenYusong_ImageSearch_Android_CLIP_ncnn\app\.cxx\cmake\release\armeabi-v7a'
+[1/3] Building CXX object CMakeFiles/clipis.dir/clipis.cpp.o
+[2/3] Building CXX object CMakeFiles/clipis.dir/clip.cpp.o
+[3/3] Linking CXX shared library D:\AndroidTool\AndroidProject\ChenYusong_ImageSearch_Android_CLIP_ncnn\app\build\intermediates\cmake\release\obj\armeabi-v7a\libclipis.so

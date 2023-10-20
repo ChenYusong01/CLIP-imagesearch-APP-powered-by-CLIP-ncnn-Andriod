@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\AndroidTool\AndroidProject\ChenYusong_ImageSearch_Android_CLIP_ncnn\app\.cxx\cmake\debug\x86'
+ninja: no work to do.

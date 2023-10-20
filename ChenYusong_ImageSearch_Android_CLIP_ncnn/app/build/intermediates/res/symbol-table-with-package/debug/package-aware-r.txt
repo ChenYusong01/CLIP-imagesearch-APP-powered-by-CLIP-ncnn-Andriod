@@ -1,0 +1,14 @@
+com.ChenYusong.ImageSearch
+drawable icon
+id extractTotalBtn
+id extractYearBtn
+id getText
+id goBtn
+id scanGalleryBtn
+id showImage
+id textView14
+id textView16
+id totalNum
+id yearNum
+layout main
+string app_name

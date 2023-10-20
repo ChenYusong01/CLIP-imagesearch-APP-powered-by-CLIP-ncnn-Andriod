@@ -1,0 +1,172 @@
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"supportedProtocolVersions":[{"isExperimental":true,"major":1,"minor":1}],"type":"hello"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "handshake",
+  "cookie": "gradle-cmake-cookie",
+  "protocolVersion": {
+    "isExperimental": true,
+    "major": 1,
+    "minor": 1
+  },
+  "sourceDirectory": "D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/src/main/jni",
+  "buildDirectory": "D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/.cxx/cmake/release/armeabi-v7a",
+  "generator": "Ninja"
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"gradle-cmake-cookie","inReplyTo":"handshake","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "configure",
+  "cacheArguments": [
+    "",
+    "-DANDROID_ABI\u003darmeabi-v7a",
+    "-DANDROID_PLATFORM\u003dandroid-24",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a",
+    "-DCMAKE_BUILD_TYPE\u003dRelease",
+    "-DANDROID_NDK\u003dD:\\AndroidTool\\AndroidSDK\\ndk\\21.3.6528147",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a",
+    "-DCMAKE_SYSTEM_VERSION\u003d24",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_ANDROID_NDK\u003dD:\\AndroidTool\\AndroidSDK\\ndk\\21.3.6528147",
+    "-DCMAKE_TOOLCHAIN_FILE\u003dD:\\AndroidTool\\AndroidSDK\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "-G Ninja",
+    "-DCMAKE_MAKE_PROGRAM\u003dD:\\AndroidTool\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+  ]
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Found OpenMP_C: -fopenmp=libomp  ","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Found OpenMP_C: -fopenmp=libomp  
+CMAKE SERVER: Found OpenMP_C: -fopenmp=libomp  
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Found OpenMP_CXX: -fopenmp=libomp  ","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Found OpenMP_CXX: -fopenmp=libomp  
+CMAKE SERVER: Found OpenMP_CXX: -fopenmp=libomp  
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Found OpenMP: TRUE   ","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Found OpenMP: TRUE   
+CMAKE SERVER: Found OpenMP: TRUE   
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Configuring done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Configuring done
+CMAKE SERVER: Configuring done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"compute"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","message":"Generating done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Generating done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"cmakeInputs"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"buildFiles":[{"isCMake":true,"isTemporary":false,"sources":["D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindOpenMP.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindThreads.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckLibraryExists.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckSymbolExists.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindVulkan.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake"]},{"isCMake":false,"isTemporary":false,"sources":["CMakeLists.txt","D:/AndroidTool/AndroidSDK/ndk/21.3.6528147/build/cmake/android.toolchain.cmake","D:/AndroidTool/AndroidSDK/ndk/21.3.6528147/build/cmake/platforms.cmake","opencv-mobile-4.5.4-android/sdk/native/jni/OpenCVConfig-version.cmake","opencv-mobile-4.5.4-android/sdk/native/jni/OpenCVConfig.cmake","opencv-mobile-4.5.4-android/sdk/native/jni/abi-armeabi-v7a/OpenCVConfig.cmake","opencv-mobile-4.5.4-android/sdk/native/jni/abi-armeabi-v7a/OpenCVModules.cmake","opencv-mobile-4.5.4-android/sdk/native/jni/abi-armeabi-v7a/OpenCVModules-release.cmake","ncnn_for_android/armeabi-v7a/lib/cmake/ncnn/ncnnConfig.cmake","ncnn_for_android/armeabi-v7a/lib/cmake/OSDependentTargets.cmake","ncnn_for_android/armeabi-v7a/lib/cmake/OSDependentTargets-release.cmake","ncnn_for_android/armeabi-v7a/lib/cmake/OGLCompilerTargets.cmake","ncnn_for_android/armeabi-v7a/lib/cmake/OGLCompilerTargets-release.cmake","ncnn_for_android/armeabi-v7a/lib/cmake/glslangTargets.cmake","ncnn_for_android/armeabi-v7a/lib/cmake/glslangTargets-release.cmake","ncnn_for_android/armeabi-v7a/lib/cmake/SPIRVTargets.cmake","ncnn_for_android/armeabi-v7a/lib/cmake/SPIRVTargets-release.cmake","ncnn_for_android/armeabi-v7a/lib/cmake/ncnn/ncnn.cmake","ncnn_for_android/armeabi-v7a/lib/cmake/ncnn/ncnn-release.cmake"]},{"isCMake":false,"isTemporary":true,"sources":["../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake","../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCCompiler.cmake","../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake"]}],"cmakeRootDirectory":"D:/AndroidTool/AndroidSDK/cmake/3.10.2.4988404/share/cmake-3.10","cookie":"","inReplyTo":"cmakeInputs","sourceDirectory":"D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/src/main/jni","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"codemodel"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"configurations":[{"name":"Release","projects":[{"buildDirectory":"D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/.cxx/cmake/release/armeabi-v7a","name":"ImageSearch","sourceDirectory":"D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/src/main/jni","targets":[{"artifacts":["D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/build/intermediates/cmake/release/obj/armeabi-v7a/libclipis.so"],"buildDirectory":"D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/.cxx/cmake/release/armeabi-v7a","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11","defines":["clipis_EXPORTS"],"includePath":[{"isSystem":true,"path":"D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/src/main/jni/ncnn_for_android/armeabi-v7a/include/ncnn"},{"isSystem":true,"path":"D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/include"}],"isGenerated":false,"language":"CXX","sources":["clipis.cpp","clip.cpp"]}],"fullName":"libclipis.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--exclude-libs,libunwind.a -Wl,--no-undefined -Qunused-arguments","linkLibraries":"D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\armeabi-v7a\\lib\\libncnn.a D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_core.a D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_imgproc.a -fopenmp -static-openmp D:\\AndroidTool\\AndroidSDK\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\24\\libvulkan.so D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\armeabi-v7a\\lib\\libglslang.a D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\armeabi-v7a\\lib\\libSPIRV.a D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\armeabi-v7a\\lib\\libMachineIndependent.a D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\armeabi-v7a\\lib\\libOGLCompiler.a D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\armeabi-v7a\\lib\\libOSDependent.a -pthread D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\ncnn_for_android\\armeabi-v7a\\lib\\libGenericCodeGen.a -landroid -ljnigraphics D:\\AndroidTool\\AndroidProject\\ChenYusong_ImageSearch_Android_CLIP_ncnn\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_core.a -ldl -lm -llog -latomic -lm","linkerLanguage":"CXX","name":"clipis","sourceDirectory":"D:/AndroidTool/AndroidProject/ChenYusong_ImageSearch_Android_CLIP_ncnn/app/src/main/jni","sysroot":"D:/AndroidTool/AndroidSDK/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]}]}],"cookie":"","inReplyTo":"codemodel","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+

@@ -1,0 +1,7 @@
+Executable : D:\AndroidTool\AndroidSDK\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\AndroidTool\AndroidProject\ChenYusong_ImageSearch_Android_CLIP_ncnn\app\.cxx\cmake\release\x86
+clipis
+jvmArgs : 
+

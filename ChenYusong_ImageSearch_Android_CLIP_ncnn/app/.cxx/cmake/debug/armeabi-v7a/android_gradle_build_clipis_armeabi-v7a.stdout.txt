@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\AndroidTool\AndroidProject\ChenYusong_ImageSearch_Android_CLIP_ncnn\app\.cxx\cmake\debug\armeabi-v7a'
+ninja: no work to do.
