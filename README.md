@@ -1,5 +1,6 @@
 # -CLIP-APP-CLIP-ncnn-
 将CLIP部署至安卓端，采用NCNN推理框架。
+
 一、项目使用简介
   
 ![image](https://github.com/ChenYusong01/CLIP-imagesearch-APP-powered-by-CLIP-ncnn-Andriod/assets/91783123/e1d5bba0-65d3-461d-b1e6-fefd65a9cbf6)
@@ -9,10 +10,8 @@
 
 
 
-
-
-
 二、项目代码解析
+
 （1）CLIP模型接口
 
  ![image](https://github.com/ChenYusong01/CLIP-imagesearch-APP-powered-by-CLIP-ncnn-Andriod/assets/91783123/082ed3f4-4d6c-4deb-b09d-94ed947deef6)
